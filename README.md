@@ -1,2 +1,2 @@
-# Aprendendohtml
-pasta para guardar arquivo do primeiro site só html
+# Meu-primeiro-site
+repositório destinado ao aprendizado básico  de HTML e CSS
