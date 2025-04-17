@@ -1,2 +1,2 @@
-# Meu-primeiro-site
-repositório destinado ao aprendizado básico  de HTML e CSS
+## Aprendendo html
+# Repositório destinado ao primeiro código html
